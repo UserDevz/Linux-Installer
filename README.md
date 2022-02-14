@@ -1,6 +1,5 @@
-<h1>Linux-Installer</h1>
-Instalador de Distribuições Linux para Termux
-
+<h1>Linux-Installer</h1></br>
+<b>Instalador de Distribuições Linux para Termux</b></br></br>
 <details>
   <summary>Instalação:</summary>
   
@@ -9,4 +8,4 @@ Instalador de Distribuições Linux para Termux
     cd Linux-Installer
     chmod +x *
     ./Linux-Installer.sh
-</details>
+</details></br>
