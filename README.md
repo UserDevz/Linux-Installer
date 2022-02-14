@@ -7,5 +7,17 @@
     git clone https://github.com/UserDevz/Linux-Installer
     cd Linux-Installer
     chmod +x *
-    ./Linux-Installer.sh
 </details></br>
+<details>
+<summary>Modo de uso:</summary><br>
+  <li>./Linux-Installer.sh escolha<br><br>
+  <li><b>Exemplo:</b><br><br>
+  <li>./Linux-Installer.sh archlinux
+  <br><br><strong text align='center'>Distros Disponíveis:</strong><br>
+  <li> Ubuntu
+  <li> Archlinux
+  <li> openSUSE
+  <li> Debian
+  <li> Fedora
+  <li> Void
+</details>
