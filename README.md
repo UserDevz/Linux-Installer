@@ -16,7 +16,6 @@
   <br><br><strong text align='center'>Distros Disponíveis:</strong><br>
   <li> Ubuntu
   <li> Archlinux
-  <li> openSUSE
   <li> Debian
   <li> Fedora
   <li> Void
