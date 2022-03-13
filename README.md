@@ -19,4 +19,7 @@
   <li> Debian
   <li> Fedora
   <li> Void
+  <li> Kali NetHunter
+  <li> Manjaro
+  <li> Alpine
 </details>
