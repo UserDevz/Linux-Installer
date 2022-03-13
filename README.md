@@ -1,4 +1,7 @@
-<h1>Linux-Installer</h1></br>
+<h1 text align='center'>Linux-Installer</h1></br>
+<img src=''>
+<img src=''>
+<img src=''>
 <b>Instalador de Distribuições Linux para Termux</b></br></br>
 <details>
   <summary>Instalação:</summary>
