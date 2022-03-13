@@ -1,7 +1,9 @@
 <h1 text align='center'>Linux-Installer</h1></br>
-<img src=''>
-<img src=''>
-<img src=''>
+
+<img src='https://img.shields.io/badge/Linguagem%3A-Shell%20Script-red'>
+<img src='https://img.shields.io/badge/licensa%3A-MIT%20License-red'>
+<img src='https://img.shields.io/badge/NetHunter-OffSec-green'>
+</br>
 <b>Instalador de Distribuições Linux para Termux</b></br></br>
 <details>
   <summary>Instalação:</summary>
