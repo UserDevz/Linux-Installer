@@ -51,7 +51,7 @@ then
 	proot-distro login void
 
 elif [ "$1" == "nethunter" ]
-then;
+then
 	printf "Instalando o Kali NetHunter\n"
 	curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/repo-fix.sh > repo.sh
 	chmod +x repo.sh
@@ -63,7 +63,7 @@ then;
 	bash kali.sh
 
 elif [ "$1" == "manjaro" ]
-then;
+then
 	printf "Instalando o Manjaro\n"
 	curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/repo-fix.sh > repo.sh
 	chmod +x repo.sh
@@ -75,7 +75,7 @@ then;
 	bash manjaro.sh
 
 elif [ "$1" == "alpine" ]
-then;
+then
 	printf "Instalando o Alpine Linux\n"
 	curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/repo-fix.sh > repo.sh
 	chmod +x repo.sh
